@@ -1,1 +1,1 @@
-A short text in **bold** github. 
+A short text in **github**. 
